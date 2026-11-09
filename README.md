@@ -41,11 +41,11 @@
 
 #### Comprovação da Visita Presencial
 A foto comprobatória da entrevista e da visita realizada no estabelecimento encontra-se armazenada no repositório:
-* **Foto com o Responsável:** [Foto dos entrevistadores com o Dono](imagens/Foto_Dono.jpg)
+* **Foto com o Responsável:** ![Foto dos entrevistadores com o Dono](imagens/Foto_Dono.jpg)
 
 #### Documentação Completa do Levantamento
 O levantamento detalhado contendo a transcrição estruturada dos processos, formulários e regras operacionais observadas encontra-se em arquivo dedicado:
-* **Documento Completo:** [Levantamento de Requisitos e Processos](Levantamento/levantamento.md)
+* **Documento Completo:** ![Levantamento de Requisitos e Processos](Levantamento/levantamento.md)
 
 ### 1.1.3. Processos de negócio
 
@@ -79,7 +79,7 @@ Código | Descrição
 
 ### 1.1.6. Notação do DER conceitual (Caso A)
 
-[DER Conceitual](imagens/Modelo_Conceitual-Corrigido)
+![DER Conceitual](imagens/Modelo_Conceitual-Corrigido)
 
 ## 1.2. Conversão do Modelo Conceitual para o Modelo Lógico
 
