@@ -20,6 +20,32 @@
 
 ### 1.1.2. Relato da entrevista
 
+#### Identificação do Entrevistado e Participantes
+* **Entrevistado:** William Nogales Santos
+* **Integrantes do Grupo Presentes:** Carlos Eduardo Alves Lopes da Silva e Matheus Nogales dos Santos.
+* **Data e Local:** 26/09/2026 — Realizada presencialmente no salão do Bar do Ernesto (Rua Abel Tavares, 2470 – Jardim Belém, São Paulo/SP).
+
+#### Resumo da Entrevista e Observação no Local
+
+* **Achados da Entrevista com o Proprietário:**
+  * **Estrutura e Operação:** A equipe atual é composta por 9 funcionários no total. A operação engloba tanto o atendimento presencial no salão quanto o serviço de delivery.
+  * **Canais de Venda e Entrega:** Os pedidos de entrega são recebidos por canais digitais (iFood e 99) e canais diretos (ligação telefônica ou WhatsApp). A logística de entrega conta com 1 a 2 motoboys fixos ou sob demanda.
+  * **Dados e Identificação de Clientes:** O número de telefone do cliente atua como o principal identificador cadastral, vinculado obrigatoriamente ao endereço completo (regra obrigatória de que nenhum pedido ou cadastro prossegue sem endereço).
+  * **Controle de Estoque e Compras:** Necessidade de monitoramento de itens e quantidades disponíveis, com alertas automáticos de reposição quando o limite mínimo crítico de estoque for atingido (ex: itens de alto giro). Os fornecedores são contatados por diferentes meios (aplicativo, WhatsApp ou ligação), exigindo o registro do canal de compra preferencial de cada fornecedor.
+  * **Gestão de Pessoal e Funções:** Registro de dados dos funcionários (nome completo, telefone, endereço, currículo e dependentes), além de controle de presença/faltas e definição clara de cargos com checklist diário de atribuições.
+  * **Expectativa de Sistema:** Um painel unificado e organizado que centralize a visão da operação, estoque, equipe e pedidos.
+
+* **Achados da Observação Presencial:**
+  * Observou-se na rotina diária a necessidade urgente de automatizar o controle de estoque que atualmente carece de organização, além de formalizar o fluxo de atendimento que transita entre comandas manuais e múltiplos aplicativos.
+
+#### Comprovação da Visita Presencial
+A foto comprobatória da entrevista e da visita realizada no estabelecimento encontra-se armazenada no repositório:
+* **Foto com o Responsável:** `[Foto dos entrevistadores com o Dono](Imagens/Foto_Dono.jpg)`
+
+#### Documentação Completa do Levantamento
+O levantamento detalhado contendo a transcrição estruturada dos processos, formulários e regras operacionais observadas encontra-se em arquivo dedicado:
+* **Documento Completo:** `[Levantamento de Requisitos e Processos](Levantamento/levantamento.md)`
+
 ### 1.1.3. Processos de negócio
 
 **Processos mapeados:** Cadastros de cliente; Recebimento de pedidos por canal; Atendimento no salão; Produção na cozinha; Entrega por Motoboy; Pagamento e fechamento de caixa; Gestão de cardápio; Compra de insumos e fornecedores; Recebimento de mercadoria Controle de Estoque; Cadastro de colaboradores e controle de ponto.
@@ -52,6 +78,8 @@ Código | Descrição
 
 ### 1.1.6. Notação do DER conceitual (Caso A)
 
+[DER Conceitual](Imagens/Modelo_Conceitual_Corrigido.jpg)
+
 ## 1.2. Conversão do Modelo Conceitual para o Modelo Lógico
 
 ## 1.3. Definição de Chaves Primárias e Estrangeiras
@@ -80,4 +108,4 @@ Código | Descrição
 
 Ferramenta e etapa | Motivação | Prompt(s) utilizados | Resposta recebida | Fontes consultadas e verificadas | Trechos rejeitados ou corrigidos | Justificativa da escolha final | Reflexão crítica 
   ----------------- | --------- | -------------------- | ----------------- | ------------------------------- | ---------------------------- | ------------------------------- | ------------- 
-  A IA Gemini foi utilizada na etapa de revisão do modelo conceitual. | 
+  A IA Gemini foi utilizada na etapa de revisão do modelo conceitual. | IA foi utilizada para podermos agilizar o processo de mapear e corrigir requisitos, regras de negócio e processos, além de resumir a entrevista. | Preciso fazer a entrega 2, para isso, eu quero que você, por enquanto, apenas preencha e corrija a seção sobre as regras de negócio e requisitos do readme que corresponde à entrega 2. Mantenha em mente o perfil do restaurante ao adicionar ou melhorar qualquer regra ou requisito, fique atento também ao issue, que é os erros que foram encontrados por um profissional. | Com base no relatório de avaliação (issue.md), nas regras da Entrega 2 e no perfil do Bar do Ernesto (restaurante e pizzaria de médio porte com 9 colaboradores e cerca de 150 pedidos por semana), preparei as seções revisadas e aprofundadas para o README.md. | As fontes foram os documentos da entrega anterior | --- | A IA apenas foi utilizada como meio de agilização de processos, apenas para o grupo poder se preocupar com os documentos e programação em SQL. | A IA está sendo apenas utilizada como uma ferramenta, ela não substitui ninguém, pois ainda temos que verificar suas respostas.
