@@ -79,7 +79,7 @@ Código | Descrição
 
 ### 1.1.6. Notação do DER conceitual (Caso A)
 
-![DER Conceitual](imagens/Modelo_Conceitual-Corrigido)
+![DER Conceitual](imagens/Modelo_Conceitual-Corrigido.jpg)
 
 ## 1.2. Conversão do Modelo Conceitual para o Modelo Lógico
 
